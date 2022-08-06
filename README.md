@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# My name is Marcelo and I am currently a Computer Science student @Insper
+
 <div>
 <a href="https://github.com/marchettomarcelo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchettomarcelo&layout=compact&langs_count=7&theme=dracula"/>
